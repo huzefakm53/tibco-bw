@@ -1,0 +1,5 @@
+{"records": [{
+    "jsonSchemaLocation": "/test.poc.customer/Service Descriptors/test.poc.customer.Process-Resource.json",
+    "conversionType": "linked",
+    "xsdSchemaTargetNamespace": "http://www.example.org/Customer"
+}]}
