@@ -1,4 +1,4 @@
-description.buildorder=test.poc.customer.application.parent/test.poc.sharedLib/test.poc.customer/test.poc.customer.application
+description.buildorder=test.poc.sharedLib/test.poc.customer/test.poc.customer.application
 description.defaultbuildorder=false
 eclipse.preferences.version=1
 version=1
