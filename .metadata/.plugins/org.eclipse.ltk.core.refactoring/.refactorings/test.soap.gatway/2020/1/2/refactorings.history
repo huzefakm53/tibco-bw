@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Move &apos;ogeGatewayService_v1.wsdl&apos; to &apos;Service Descriptors&apos;" description="Move &apos;ogeGatewayService_v1.wsdl&apos; to &apos;Service Descriptors&apos;" destination="Service Descriptors" element1="Schemas/ogeGatewayService_v1.wsdl" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1578519093256" updateReferences="true"/>
-</session>
